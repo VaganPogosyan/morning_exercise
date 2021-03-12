@@ -1,0 +1,23 @@
+{
+  "name": "morning_exercise",
+  "version": "1.0.0",
+  "description": "Corwin Dickey",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaganPogosyan/morning_exercise.git"
+  },
+  "author": "Corwin Dickey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaganPogosyan/morning_exercise/issues"
+  },
+  "homepage": "https://github.com/VaganPogosyan/morning_exercise#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
